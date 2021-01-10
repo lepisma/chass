@@ -1,0 +1,3 @@
+#+TITLE: chass
+
+Basic [[https://lichess.org/][lichess]] assistant.
